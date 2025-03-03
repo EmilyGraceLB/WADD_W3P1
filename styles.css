@@ -1,0 +1,53 @@
+
+
+body {
+    background-color: pink;
+}
+
+div {
+    background-color: white;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Geneva';
+}
+
+h1, h2, h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans'
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#page-title{
+    display: inline-block;
+    width: 40em;
+}
+
+#date {
+    display: inline-block;
+    text-align: right;
+    width: 60em;
+}
+
+a:link {
+    color: rgb(0, 225, 255);
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
